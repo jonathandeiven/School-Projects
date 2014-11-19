@@ -11,5 +11,5 @@ Enter the source-file of the text to be processed (or stdin), and add the proces
 
 Example run:
 ```
-stdin L337 Lower Caesar 5
+foo.txt L337 Lower Caesar 5
 ```
