@@ -1,0 +1,4 @@
+Postfix-Calculator
+==================
+
+Converts postfix expressions to infix and evaluates them. This program only accepts binary (+, -, /, *) and unary (ABS, NEG) operations. The program has been tested to ensure there is no memory leakage.
