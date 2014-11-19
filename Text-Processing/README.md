@@ -10,3 +10,8 @@ Lower: Converts all characters to lower case
 DoubleCon: Doubles all consonants
 Caesar X: Advances each letter by X spaces (so replaced by the letter occuring X places down)
 ```
+
+Example run:
+```
+stdin L337 Lower Caesar 5
+```
